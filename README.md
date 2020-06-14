@@ -24,6 +24,6 @@ These factors give a fair idea about different aspects of Stack Overflow's succe
 There are 2 Jupyter notebooks used in this project. The Stackoverflow.ipynb file is main file used to answer the above questions. GThe Extra-analysis.ipynb file contains extra visualizations carried to better understand the data set.
 
 # Results:
-The main findings of this project can be found [here].
+The main findings of this project can be found [here](https://medium.com/@ruchitsd/why-is-stack-overflow-a-success-ccec4d87cd3f).
 
 
