@@ -26,4 +26,5 @@ There are 2 Jupyter notebooks used in this project. The Stackoverflow.ipynb file
 # Results:
 The main findings of this project can be found [here](https://medium.com/@ruchitsd/why-is-stack-overflow-a-success-ccec4d87cd3f).
 
-
+# Licensing, Authors, and Acknowledgement
+Must give credit to Stack Overflow for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/stack-overflow-2018-developer-survey). Otherwise, feel free to use the code here as you would like!
